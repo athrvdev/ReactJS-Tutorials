@@ -25,4 +25,4 @@ To get started with any project, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/reactjs-mini-projects.git
+   git clone https://github.com/athrvdev/ReactJS-Tutorials.git
